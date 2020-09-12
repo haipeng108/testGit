@@ -50,4 +50,7 @@ public class Employee {
     public void setdId(Integer dId) {
         this.dId = dId;
     }
+    public static void main(String[] args) {
+    	System.out.println("¸üÐÂ1");
+    } 
 }
